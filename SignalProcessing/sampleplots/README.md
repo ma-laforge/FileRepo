@@ -6,7 +6,7 @@ The following plots were generated with [GracePlot](https://github.com/ma-laforg
 
 Please note that GracePlot defaults do not currently provide optimal results when multiple subplots (called "graphs") are involved.  Axis titles, tick labels, legends, and graphs themselves will overlap in a non-ideal fashion.
 
-A more representative example of what *can* be obtained with grace is presented [here](../../GracePlot/sampleplots/graceplot2x2.png).  This result was generated using "templates" (see "parameter files"), but can also be achieved through manual intervention with the Grace UI.
+A more representative example of what *can* be obtained with Grace is presented [here](../../GracePlot/sampleplots/graceplot2x2.png).  This result was generated using "templates" (see "parameter files"), but can also be achieved through manual intervention with the Grace UI.
 
 ## demo1
 <img src="demo1.png" width="800">
