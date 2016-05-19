@@ -2,18 +2,25 @@
 
 The following plots were generated with the [InspectDR.jl](https://github.com/ma-laforge/InspectDR.jl) module.
 
-## demo1 (Snapshot)
+## demo1: Sine Waves
 <img src="demo1.png">
 
-## demo1 + box zoom
+## demo1 + Box Zoom
 <img src="demo1_boxzoom.png">
 
 ## demo1 (SVG)
-<img src="demo1.svg" width="800">
+If inline image below does not display, click [here](demo1.svg) to load directly.
 
-## demo2
+<img src="demo1.svg" width="300">
+
+## demo2: Reflection Coefficients
 <img src="demo2.png">
 
-## demo3
+## demo3: Basic Multi-Plot
 <img src="demo3.png">
 
+## demo4: Undefined Extents
+<img src="demo4.png">
+
+## demo5: Log-y Axis
+<img src="demo5.png">
