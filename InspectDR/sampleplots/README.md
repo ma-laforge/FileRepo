@@ -16,11 +16,14 @@ If inline image below does not display, click [here](demo1.svg) to load directly
 ## demo2: Reflection Coefficients
 <img src="demo2.png">
 
-## demo3: Basic Multi-Plot
+## demo3: Powers of X
 <img src="demo3.png">
 
 ## demo4: Undefined Extents
 <img src="demo4.png">
 
-## demo5: Log-y Axis
+## demo5: Log-Y Axis
 <img src="demo5.png">
+
+## demo6: Smith Chart (Publication Layout)
+<img src="demo6.png">
