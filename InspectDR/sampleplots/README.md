@@ -8,13 +8,13 @@ The following plots were generated with the [InspectDR.jl](https://github.com/ma
 ## demo1 + Box Zoom
 <img src="demo1_boxzoom.png">
 
-## demo1 (SVG)
-If inline image below does not display, click [here](demo1.svg) to load directly.
-
-<img src="demo1.svg" width="300">
-
 ## demo2: Reflection Coefficients
 <img src="demo2.png">
+
+## demo2 (SVG)
+If inline image below does not display, click [here](demo2.svg) to load directly.
+
+<img src="demo2.svg" width="300">
 
 ## demo3: Powers of X
 <img src="demo3.png">
@@ -27,3 +27,9 @@ If inline image below does not display, click [here](demo1.svg) to load directly
 
 ## demo6: Smith Chart (Publication Layout)
 <img src="demo6.png">
+
+## demo7: Bode Plot
+<img src="demo7.png">
+
+## demo7: Bode Plot (Export)
+<img src="demo7_export.png">
