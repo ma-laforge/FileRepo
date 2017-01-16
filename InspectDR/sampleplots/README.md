@@ -33,3 +33,9 @@ If inline image below does not display, click [here](demo2.svg) to load directly
 
 ## demo7: Bode Plot (Export)
 <img src="demo7_export.png">
+
+## demo8: Glyph Tests (Export)
+<img src="demo8_export.png">
+
+## demo9: Waveforms with NaN Values (Export)
+<img src="demo9_export.png">
