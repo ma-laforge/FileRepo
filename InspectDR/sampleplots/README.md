@@ -40,5 +40,8 @@ If inline image below does not display, click [here](demo2.svg) to load directly
 ## demo9: Waveforms with NaN Values (Export)
 <img src="demo9_export.png">
 
-## demo10: Mixed-Signal "Siumulation" (Export)
+## demo10: Mixed-Signal "Simulation" (Export)
 <img src="demo10_export.png">
+
+## demo11: Digital Buffer "Simulation"
+<img src="demo11.png">
