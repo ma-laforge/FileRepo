@@ -45,3 +45,9 @@ If inline image below does not display, click [here](demo2.svg) to load directly
 
 ## demo11: Digital Buffer "Simulation"
 <img src="demo11.png">
+
+## demo12: Plot Destined for IEEE Publications (Export)
+<img src="demo12_export.png" width="756">
+
+## demo13: Very Minimal Scatter Plot Example (Export)
+<img src="demo13_export.png">
