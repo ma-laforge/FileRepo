@@ -4,7 +4,7 @@
 [CMDimData_SamplePlots]: <https://github.com/ma-laforge/CMDimData.jl/tree/master/sample/plots>
 
 
-# Generated with CMDimData.jl
+# Outputs: CMDimData.jl
 
 This directory stores outputs of [CMDimData] sample scripts, rendered with the [InspectDR] backend.
 
